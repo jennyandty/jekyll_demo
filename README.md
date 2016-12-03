@@ -7,4 +7,4 @@ jenny's blog
 ###### [3--cmd环境下实现：为命令设置别名、启动cmd时自动执行bat](https://github.com/jennyandty/jekyll_demo/issues/1)
 
 #### machine learning
-###### [4--协同过滤算法初见](https://github.com/jennyandty/jenny_blog/issues/5)
+###### [4--推荐引擎——协同过滤算法](https://github.com/jennyandty/jenny_blog/issues/5)
